@@ -1,0 +1,47 @@
+ body{
+   margin: 0; 
+   padding: 0;
+   box-sizing: border-box;
+   background-color: rgb(26, 86, 88);
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 90%;
+  /* height: 80%;*/
+  /* line-height: 40px;*/
+   font-size: 19px;
+   /*margin-left: 40px;*/
+   
+ }
+ #header h1{
+    text-align: center;
+    /*align-items:margin-left;*/
+ }
+
+ #like h2{
+    text-align: center;
+    color: green;
+    /*align-items: margin-left;*/
+ }
+ 
+ #name h2{
+    /*align-items: margin-left;*/
+    text-align: center;
+    color: green;
+ }
+
+ #about h2{
+    text-align: center;
+    color: green;
+ }
+
+ #city h2{
+    text-align: center;
+    color: green;
+ }
+
+ 
+  
+
+
+ 
